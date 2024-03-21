@@ -1,14 +1,151 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "popularServices": [
+        {
+            "id": 1,
+            "name": "Skin Treatments",
+            "category": "Popular Services",
+            "img": "/assets/img/skin-treatment.jpg",
+            "rating": 4.5,
+            "duration": "60",
+            "startPrice": "2000"
+        },
+        {
+            "id": 2,
+            "name": "Facial",
+            "category": "Popular Services",
+            "img": "/assets/img/facial.jpg",
+            "rating": 4.2,
+            "duration": "90",
+            "startPrice": "850"
+        },
+        {
+            "id": 3,
+            "name": "Waxing",
+            "category": "Popular Services",
+            "img": "/assets/img/waxing.jpg",
+            "rating": 4.1,
+            "duration": "50",
+            "startPrice": "50"
+        },
+        {
+            "id": 4,
+            "name": "D-Tan",
+            "category": "Popular Services",
+            "img": "/assets/img/d-tan.jpg",
+            "rating": 4.3,
+            "duration": "45",
+            "startPrice": "550"
+        }
+    ],
+    "bestServices": [
+        {
+            "id": 1,
+            "name": "Manicure & Pedicure",
+            "category": "Best Services",
+            "img": "/assets/img/manicure-padicure.jpg",
+            "rating": 4,
+            "duration": "60",
+            "startPrice": "120"
+        },
+        {
+            "id": 2,
+            "name": "Clean Up",
+            "category": "Best Services",
+            "img": "/assets/img/cleanup.jpg",
+            "rating": 4.5,
+            "duration": "45",
+            "startPrice": "600"
+        },
+        {
+            "id": 3,
+            "name": "Massage",
+            "category": "Best Services",
+            "img": "/assets/img/massage.jpg",
+            "rating": 4.3,
+            "duration": "60",
+            "startPrice": "350"
+        },
+        {
+            "id": 4,
+            "name": "Body Polishing",
+            "category": "Best Services",
+            "img": "/assets/img/body-polishing.jpg",
+            "rating": 4.1,
+            "duration": "60",
+            "startPrice": "2000"
+        }
+    ],
+    "bestOffers": [
+        {
+            "id": 1,
+            "name": "Bleach",
+            "category": "Best Offer",
+            "img": "/assets/img/bleach.jpg",
+            "rating": 4.3,
+            "duration": "35",
+            "startPrice": "200"
+        },
+        {
+            "id": 2,
+            "name": "Threading",
+            "category": "Best Offer",
+            "img": "/assets/img/threading.jpg",
+            "rating": 4.5,
+            "duration": "30",
+            "startPrice": "25"
+        },
+        {
+            "id": 3,
+            "name": "Hair Care",
+            "category": "Best Offer",
+            "img": "/assets/img/hair-care.jpg",
+            "rating": 4.3,
+            "duration": "45",
+            "startPrice": "350"
+        },
+        {
+            "id": 4,
+            "name": "Hair Styling",
+            "category": "Best Offer",
+            "img": "/assets/img/hair-styling.jpg",
+            "rating": 4.5,
+            "duration": "35",
+            "startPrice": "800"
+        },
+        {
+            "id": 5,
+            "name": "Makeup",
+            "category": "Best Offer",
+            "img": "/assets/img/make-up.jpg",
+            "rating": 4.5,
+            "duration": "-",
+            "startPrice": "300"
+        }
+    ],
+    "topPackages": [
+        {
+            "id": 1,
+            "name": "Amour Premium Packages",
+            "category": "Top Packages",
+            "img": "/assets/img/Premium-package.jpg",
+            "duration": "60",
+            "startPrice": "2550"
+        },
+        {
+            "id": 2,
+            "name": "Package at 99",
+            "category": "Top Packages",
+            "img": "/assets/img/package-at-99.jpg",
+            "duration": "60",
+            "startPrice": "999"
+        },
+        {
+            "id": 3,
+            "name": "Makeup Packages",
+            "category": "Top Packages",
+            "img": "/assets/img/makeup-package.jpg",
+            "duration": "60",
+            "startPrice": "5000"
+        }
+    ]
 }
