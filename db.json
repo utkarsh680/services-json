@@ -150,38 +150,46 @@
     ],
     "skinTreatmentRecommendation": [
         {
-        "id": 1,
-        "img": "/assets/img/dry-skin.jpg",
-        "name": "Dry Skin Treatment",
-        "rating": "4.5",
-        "duration": "60",
-        "price": "2000"
+            "id": 1,
+            "img": "/assets/img/dry-skin.jpg",
+            "name": "Dry Skin Treatment",
+            "rating": "4.5",
+            "duration": "60",
+            "price": "2000"
         },
         {
-        "id": 2,
-        "img": "/assets/img/oily-skin.jpg",
-        "name": "Oily Skin Treatment",
-        "rating": "4.5",
-        "duration": "60",
-        "price": "2000"
-        }   
+            "id": 2,
+            "img": "/assets/img/oily-skin.jpg",
+            "name": "Oily Skin Treatment",
+            "rating": "4.5",
+            "duration": "60",
+            "price": "2000"
+        }
     ],
-     "skinTreatments": [
+    "skinTreatments": [
         {
-        "id": 1,
-        "img": "/assets/img/dry-skin.jpg",
-        "name": "Anti Ageing Treatment",
-        "rating": "4.6",
-        "duration": "60",
-        "price": "2000"
+            "id": 1,
+            "img": "/assets/img/dry-skin.jpg",
+            "name": "Anti Ageing Treatment",
+            "rating": "4.6",
+            "duration": "60",
+            "price": "2000"
         },
         {
-        "id": 2,
-        "img": "/assets/img/oily-skin.jpg",
-        "name": "Pigmentation Treatment",
-        "rating": "4.5",
-        "duration": "60",
-        "price": "2000"
-        }   
+            "id": 2,
+            "img": "/assets/img/oily-skin.jpg",
+            "name": "Pigmentation Treatment",
+            "rating": "4.5",
+            "duration": "60",
+            "price": "2000"
+        },
+        {
+            "id": 3,
+            "img": "/assets/img/oily-skin.jpg",
+            "name": "Pigmentation Treatment",
+            "rating": "4.5",
+            "duration": "60",
+            "price": "2000"
+        }
     ]
 }
