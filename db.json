@@ -153,15 +153,17 @@
         "id": 1,
         "img": "/assets/img/dry-skin.jpg",
         "name": "Dry Skin Treatment",
-        "price": "2000",
-        "duration": "60"
+        "rating": "4.5",
+        "duration": "60",
+        "price": "2000"
         },
         {
-         "id": 2,
+        "id": 2,
         "img": "/assets/img/oily-skin.jpg",
         "name": "Oily Skin Treatment",
-        "price": "2000",
-        "duration": "60"
+        "rating": "4.5",
+        "duration": "60",
+        "price": "2000"
         },    
     ]
 }
