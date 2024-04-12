@@ -155,7 +155,7 @@
             "name": "Dry Skin Treatment",
             "rating": "4.5",
             "duration": "60",
-            "price": "2000"
+            "price": "1000"
         },
         {
             "id": 2,
@@ -163,7 +163,7 @@
             "name": "Oily Skin Treatment",
             "rating": "4.5",
             "duration": "60",
-            "price": "2000"
+            "price": "500"
         },
         {
             "id": 3,
@@ -171,7 +171,7 @@
             "name": "Skin Lightening Treatment",
             "rating": "4.5",
             "duration": "60",
-            "price": "2000"
+            "price": "600"
         },
         {
             "id": 4,
@@ -179,7 +179,7 @@
             "name": "Anti Ageing Treatment",
             "rating": "4.5",
             "duration": "60",
-            "price": "2000"
+            "price": "700"
         },
         {
            "id": 5,
