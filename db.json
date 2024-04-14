@@ -153,7 +153,7 @@
             "id": 1,
             "img": "/assets/img/dry-skin.jpg",
             "name": "Dry Skin Treatment",
-            "rating": "4.5",
+            "rating": "3.9",
             "duration": "60",
             "price": "1000"
         },
@@ -161,7 +161,7 @@
             "id": 2,
             "img": "/assets/img/oily-skin.jpg",
             "name": "Oily Skin Treatment",
-            "rating": "4.5",
+            "rating": "4.8",
             "duration": "60",
             "price": "500"
         },
@@ -169,7 +169,7 @@
             "id": 3,
             "img": "/assets/img/skin-lightening.jpg",
             "name": "Skin Lightening Treatment",
-            "rating": "4.5",
+            "rating": "4",
             "duration": "60",
             "price": "600"
         },
@@ -177,7 +177,7 @@
             "id": 4,
             "img": "/assets/img/anti-ageing.jpg",
             "name": "Anti Ageing Treatment",
-            "rating": "4.5",
+            "rating": "4",
             "duration": "60",
             "price": "700"
         },
@@ -185,7 +185,7 @@
            "id": 5,
             "img": "/assets/img/pigmentation.jpg",
             "name": "Pigmentation Treatment",
-            "rating": "4.5",
+            "rating": "3.5",
             "duration": "60",
             "price": "2000"
         }        
